@@ -7,7 +7,7 @@ export default function Project(props) {
 
 	const name = currentProject.name;
 	const description = currentProject.description;
-	const image = currentProject.image;
+	// const image = currentProject.image;
 	const techs = currentProject.technologies;
 	const appLink = currentProject.deployed;
 	const gitLink = currentProject.github;
@@ -29,11 +29,11 @@ export default function Project(props) {
 
 	return (
 		<Card style={{ width: "18rem" }}>
-			<Card.Img
+			{/* <Card.Img
 				variant="top"
 				src={require(`../../assets/images/${image}`)}
 				className="card-image"
-			/>
+			/> */}
 			<div className="center">
 				<Card.Body>
 					<Card.Title className="card-title">{name}</Card.Title>
