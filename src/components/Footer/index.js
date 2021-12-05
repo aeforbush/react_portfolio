@@ -10,7 +10,7 @@ export default function Footer() {
           rel="noopener noreferrer"
         >
           <img
-            src={require("../../assets/logos/Octocat.jpg")}
+            src={require("../../assets/logos/Octocat.jpg").default}
             alt="Github"
             className="logo"
           ></img>
@@ -23,7 +23,7 @@ export default function Footer() {
           rel="noopener noreferrer"
         >
           <img
-            src={require("../../assets/logos/LI-In-Bug.png")}
+            src={require("../../assets/logos/LI-In-Bug.png").default}
             alt="LinkedIn"
             className="logo"
           ></img>

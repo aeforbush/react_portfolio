@@ -7,7 +7,7 @@ export default function Header(props) {
   return (
     <header>
       <div>
-        <h2>Aimee Forbush</h2>
+      <h2>Aimee Forbush</h2>
       </div>
       <div>
         <Nav currentTab={currentTab} setCurrentTab={setCurrentTab}></Nav>

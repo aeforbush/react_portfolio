@@ -5,7 +5,7 @@ export default function About() {
     <section>
       <div className="left">
         <img
-          src={require("../../assets/images/AimeeAvatar200.png")}
+          src={require("../../assets/images/AimeeAvatarNoBack.png").default}
           alt="about me"
           className="photo"
         />
