@@ -1,0 +1,1 @@
+// each project featured should include: img, title, link to deployed app and link to github repo
