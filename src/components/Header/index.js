@@ -1,23 +1,17 @@
-
 import React from "react";
-import Navigation from "../Navigation";
+import Nav from "../Nav";
 
-function Header(props) {
-	const { currentTab, setCurrentTab } = props;
+export default function Header(props) {
+  const { currentTab, setCurrentTab } = props;
 
-	return (
-		<header>
-			<div>
-				<h2>Aimee Forbush</h2>
-			</div>
-			<div>
-				<Navigation
-					currentTab={currentTab}
-					setCurrentTab={setCurrentTab}
-				></Navigation>
-			</div>
-		</header>
-	);
+  return (
+    <header>
+      <div>
+        <h2>Aimee Forbush</h2>
+      </div>
+      <div>
+        <Nav currentTab={currentTab} setCurrentTab={setCurrentTab}></Nav>
+      </div>
+    </header>
+  );
 }
-
-export default Header;
