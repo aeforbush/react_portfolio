@@ -6,7 +6,7 @@ import Footer from "./components/Footer";
 import About from "./components/About";
 import Portfolio from "./components/Portfolio";
 import Contact from "./components/Contact";
-// import Resume from "./components/Resume";
+import Resume from "./components/Resume";
 
 export default function App() {
   const [currentTab, setCurrentTab] = useState("about");
@@ -20,8 +20,8 @@ export default function App() {
       	return <Portfolio />;
       case "contact":
         return <Contact />;
-      // case "resume":
-      // 	return <Resume />;
+      case "resume":
+      	return <Resume />;
       default:
         return null;
     }
