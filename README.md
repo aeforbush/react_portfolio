@@ -23,7 +23,7 @@ React Portfolio presents to the dev community a short bio about myself, featured
 
 
 ## Authors
-* Aimee Forbush
+* Aimee E Forbush
 
 ## GitHub 
 * GitHub: (https://aeforbush.github.io/react_portfolio/)
