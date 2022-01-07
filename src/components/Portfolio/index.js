@@ -64,14 +64,14 @@ export default function Portfolio() {
 		  "https://www.icloud.com/iclouddrive/0P_20yHTBaPYbPX7zuXaroxHQ#ecommerce_back_end_demo",
 	  },
 	  {
-		name: "Weather App",
+		name: "Tomodachi",
 		description:
-		  "Weather App is designed to allow users to check current and future five day forcast for major cities located in the US.",
+		  "Creation simulation game where the object is to keep your planet alive by balancing the system spheres with four game interactions.",
 		image: "",
-		technologies: ["API Open Weather", "Bootstrap", "JQuery", "Vanilla JS"],
-		github: "https://github.com/aeforbush/Weather_App.git",
+		technologies: ["MERN SPA", "Apollo-GraphQL", "Heroku", "JWT"],
+		github: "https://github.com/Johnson90cm/Tomodachi.git",
 		deployed:
-		  "https://aeforbush.github.io/Weather_App/",
+		  "https://tomodachi-sadboitay.herokuapp.com/",
 	  },
   ];
 
