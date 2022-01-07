@@ -26,7 +26,7 @@ React Portfolio presents to the dev community a short bio about myself, featured
 * Aimee Forbush
 
 ## GitHub 
-* GitHub: (https://github.com/aeforbush/react_portfolio)
+* GitHub: (https://aeforbush.github.io/react_portfolio/)
 
 ## License
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
