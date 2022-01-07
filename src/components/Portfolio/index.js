@@ -4,6 +4,16 @@ import Project from "../Project";
 export default function Portfolio() {
   const projects = [
     {
+      name: "Tomodachi",
+      description:
+        "Creation simulation game where the object is to keep your planet alive by balancing the system spheres with four game interactions.",
+      image: "",
+      technologies: ["MERN SPA", "Apollo-GraphQL", "Heroku", "JWT"],
+      github: "https://github.com/Johnson90cm/Tomodachi.git",
+      deployed:
+        "https://tomodachi-sadboitay.herokuapp.com/",
+      },
+    {
       name: "Travel Bonanza",
       description:
         "Designed for the adventurous at heart, Travel Bonanza randomly selects an inexpensive destination based on choice of departing/returning airport and selected dates",
@@ -62,16 +72,6 @@ export default function Portfolio() {
 		github: "https://github.com/aeforbush/e-commerce.git",
 		deployed:
 		  "https://www.icloud.com/iclouddrive/0P_20yHTBaPYbPX7zuXaroxHQ#ecommerce_back_end_demo",
-	  },
-	  {
-		name: "Tomodachi",
-		description:
-		  "Creation simulation game where the object is to keep your planet alive by balancing the system spheres with four game interactions.",
-		image: "",
-		technologies: ["MERN SPA", "Apollo-GraphQL", "Heroku", "JWT"],
-		github: "https://github.com/Johnson90cm/Tomodachi.git",
-		deployed:
-		  "https://tomodachi-sadboitay.herokuapp.com/",
 	  },
   ];
 
