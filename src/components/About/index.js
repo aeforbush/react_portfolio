@@ -11,20 +11,20 @@ export default function About() {
         />
       </div>
       <div className="center" id="about">
-        <h1 className="page-header">Big Ideas lead to Progress </h1>
+        <h1 className="page-header">Security is The Way</h1>
       </div>
 
       <div>
         <p>
-          Hello! I'm Aimee and I have a knack for grasping big ideas and applying those ideas to smaller more manageable components.  Former educator turned developer, I love creating eloquently organized applications and am experienced in developing full stack
-          applications; but, my real jam is developing flexible and secure back ends.
-          I'm all about that data, oh ya!
+        Hi there!  I'm an experienced web developer and aspiring cybersecurity professional.  I am responsible, a dedicated learner, and a team player.  
+        I am capable of working on projects that require collection and analysis, effective presentation and communication skills.
+
         </p>
         <p> 
-        Experienced in using NodeJS, MySQL, MongoDB and GraphQL, please look over my most recent back end projects.  Additionally, I'm expanding my knowledge as a graduate student in the MSIS program at the University of Utah starting in 2022.
+        Experienced in AGILE development, web development (Javascript and Typescript), testing, AWS Cloud technology and NIST Cybersecurity Framework.
         </p>
         <p>
-          Contact me if you have a work opportunity and would like to learn more about me as a developer.  
+        Please contact me with further inquiries.  Thanks!  
         </p>
       </div>
     </section>
